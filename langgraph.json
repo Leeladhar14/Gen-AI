@@ -1,7 +1,8 @@
 {
     "graphs":
     {
-        "first": "./first.py:first"
+        "first": "./first.py:first",
+        "llm": "./llm_interactions.py:graph"
     },
     "dependencies": ["."]
 }
