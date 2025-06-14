@@ -3,7 +3,8 @@
     {
         "first": "./first.py:first",
         "llm": "./llm_interactions.py:graph",
-        "myllm": "./basic.py:graph"
+        "myllm": "./basic.py:graph",
+         "myllm": "./event_streaming.py:my_graph"
     },
     "dependencies": ["."]
 }
